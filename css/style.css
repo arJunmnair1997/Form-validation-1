@@ -1,0 +1,17 @@
+/* Author: arJun
+Date: 09/02/2023*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main {
+    background-image: linear-gradient(to bottom right, black, gray);
+    min-height: 100vh;
+}
+.forms {
+    width: max-content;
+}
+.forms > p {
+    font-size: smaller;
+}
